@@ -6,7 +6,6 @@ Project is Presented within 3 Jupyter Notebooks as follows
 Notebook 1: Pre-processing and cleaning of the data, Exploratory Data Analysis, Base Model
 
 Notebook 2: Ensemble Model_1: Random Forest, SMOTE: Data Upsampling
-
 Notebook 3: Ensemble Model_2: Adaboost, SMOTE: Data Upsampling, Conclusion
 
 
