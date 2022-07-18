@@ -6,7 +6,9 @@ Project is Presented within 3 Jupyter Notebooks as follows
 Notebook 1: Pre-processing and cleaning of the data, Exploratory Data Analysis, Base Model
 
 Notebook 2: Ensemble Model_1: Random Forest, SMOTE: Data Upsampling
+
 Notebook 3: Ensemble Model_2: Adaboost, SMOTE: Data Upsampling, Conclusion
+
 
 
 Abstract 
@@ -20,12 +22,19 @@ We chose F1_score to measure the performance of the model.
 Table of contents
 
 1.1 About the data
+
 1.2 About LHC detector and Analysis Pipeline
+
 2 Features
+
 3.1 Notebook 1: Pre-processing and cleaning of the data, Exploratory Data Analysis, Base Model
+
 3.2 Notebook 2: Ensemble Model: Random Forest, SMOTE: Data Upsampling
+
 3.3 Notebook 3: Ensemble Model: Adaboost, SMOTE: Data Upsampling, Conclusion
-F 4uture Enhancements
+
+4 Future Enhancements
+
 4 References
 
 
